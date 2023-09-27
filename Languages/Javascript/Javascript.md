@@ -1,0 +1,1 @@
+Here some text about Javascript... ^2262b0
