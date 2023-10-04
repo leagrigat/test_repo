@@ -81,7 +81,7 @@ The communication happens between the two partners **Server** and **Client**. Th
 ![[Comand Line#^0ded7c]]
 
 ### GIT
-![[Git#^3fa2cc]]
+![[Github#^3fa2cc]]
 
 ### Visual Studio Code
 ![[Visual Studio Code#^9c3ef8]]

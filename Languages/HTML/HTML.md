@@ -1,1 +1,1 @@
-Here some text about HTML... ^9cdfc4
+HTML stands for HyperText Markup Language. It is **a standard markup language for web page creation**. It allows the creation and structure of sections, paragraphs, and links using HTML elements (the building blocks of a web page) such as tags and attributes. ^9cdfc4

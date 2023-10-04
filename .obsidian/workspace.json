@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design/UX and UI.md",
+                "file": "Languages/NodeJS/NodeJS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dacecd6ea26c8d52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shortcuts/Terminal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ac7985932d418c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shortcuts/Github.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design/UX and UI.md",
+                "file": "Shortcuts/Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design/UX and UI.md",
+                "file": "Shortcuts/Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design/UX and UI.md"
+                "file": "Shortcuts/Github.md"
               }
             }
           }
@@ -146,12 +171,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "771fff0872417ac8",
+  "active": "9ac7985932d418c6",
   "lastOpenFiles": [
-    "Basics of Web Development.md",
-    "Design/UX and UI.md",
-    "Languages/Markdown/Markdown.md",
+    "Shortcuts/Terminal.md",
+    "Shortcuts/Github.md",
+    "Shortcuts.md",
+    "Shortcuts",
+    "Languages/NodeJS/NodeJS.md",
+    "Languages/Javascript/Javascript.md",
     "Languages/HTML/HTML.md",
+    "Languages/CSS/CSS.md",
+    "Basics of Web Development.md",
+    "Languages/Markdown/Markdown.md",
+    "Design/UX and UI.md",
     "assets/Client-server-model.svg.png",
     "assets/backend-info.png.md",
     "assets/backend-info.png",
@@ -165,9 +197,6 @@
     "Libraries and Frameworks/Internationalization.md",
     "Libraries and Frameworks/Express.md",
     "Languages/Typescript/Typescript.md",
-    "Languages/NodeJS/NodeJS.md",
-    "Languages/Javascript/Javascript.md",
-    "Languages/CSS/CSS.md",
     "Languages/CSS/Properties",
     "Languages/CSS/Media Query",
     "Languages/CSS/Grid",
@@ -175,15 +204,12 @@
     "Languages/HTML/Attributes",
     "Languages/HTML/Tags",
     "Languages/Typescript",
-    "Languages/SQL",
     "Tools/Visual Studio Code.md",
     "Tools/Git.md",
     "Frontend.md",
     "Backend/Backend.md",
     "Libraries and Frameworks/Prisma.md",
     "Frontend/Frontend.md",
-    "Libraries and Frameworks/Testing.md",
-    "Libraries and Frameworks/React.md",
-    "Frontend/Languages.md"
+    "Libraries and Frameworks/Testing.md"
   ]
 }

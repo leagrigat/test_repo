@@ -1,1 +1,1 @@
-Here some text about CSS... ^57eef0
+**CSS stands for Cascading Style Sheets**. It is the language for describing the presentation of Web pages, including colours, layout, and fonts, thus making our web pages presentable to the users. CSS is designed to make style sheets for the web. ^57eef0
